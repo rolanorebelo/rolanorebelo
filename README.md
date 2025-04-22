@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
 </p>
 
@@ -83,9 +83,12 @@
 
 ### 📫 Reach Out
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rolanorebelo/)
-- ✉️ rolanorebelo@my.unt.edu  
+- 🌐 [Portfolio](https://rolano.vercel.app)  
+- 📄 [Resume (PDF)](https://github.com/rolanorebelo/rolanorebelo/blob/main/Rolano%20New%20Grad%20CV%20Updated%201.pdf)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rolanorebelo/)  
+- ✉️ rolano.rebelo@gmail.com  
 - 🧑‍💻 [GitHub](https://github.com/rolanorebelo)
+
 
 ---
 

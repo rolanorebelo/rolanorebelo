@@ -2,7 +2,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rolanorebelo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-<h3 align="center">Frontend-focused Full Stack Developer | Java Backend Enthusiast | MSCS @ UNT</h3>
+<h3 align="center">
+  Full Stack Developer (3+ YOE) | React, Python, Java | Cloud-Ready: AWS • Docker • Kubernetes | MSCS @ UNT
+</h3>
 
 ---
 

@@ -72,7 +72,7 @@
 
 ### 🧠 LeetCode Grind
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/rolanorebelo?theme=dark&font=Baloo&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/rolanorebelo?theme=dark&font=Baloo)
 
 ---
 

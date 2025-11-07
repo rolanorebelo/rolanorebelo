@@ -3,20 +3,22 @@
   <img src="https://komarev.com/ghpvc/?username=rolanorebelo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 <h3 align="center">
-  Full Stack Developer (3+ YOE) | React, Python, Java | Cloud-Ready: AWS • Docker • Kubernetes | MSCS @ UNT
+  Full Stack Developer (4+ YOE) | React, Next.js, Python, Java | GPT-4o • LangChain • Spring Boot • AWS • Docker | MSCS @ UNT (4.0 GPA)
 </h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 MS in CS @ University of North Texas (Graduating May 2025)
-- 💼 Ex-Wipro | 3+ years of experience (Frontend @ Cisco)
-- 🛠️ Passionate about crafting intuitive UIs and scalable systems
-- 🌱 Currently leveling up with Spring Boot, Docker, Kubernetes & AWS
-- 🧠 Big on system design, clean code, and building things that *work*
+- 🎓 MS in CS @ University of North Texas (GPA: 4.0, Graduating May 2025)
+- 💼 3+ years at Wipro (led frontend @ Cisco), currently building AI-powered platforms at ReplyQuickAI and Phylactics
+- 🛠️ Specialize in React, Node.js, FastAPI, Spring Boot, and scalable cloud-native architectures
+- 🧠 Hands-on with LLMs (GPT-4o, LangChain), vector search, and NLP pipelines
+- 🌱 Recently built and deployed AI healthcare & telecom apps with real-time workflows and GPT integrations
+- 🏆 Hackathon Winner – Best AI Project (HackUNT 2024) • Distinguished Grad Student (UNT 2025)
 
 ---
+
 
 ### 🛠️ Tech Stack
 

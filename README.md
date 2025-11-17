@@ -118,7 +118,7 @@
 ### 📫 Reach Out
 
 - 🌐 [Portfolio](https://rolano.vercel.app)  
-- 📄 [Resume (PDF)](https://github.com/rolanorebelo/rolanorebelo/blob/main/Rolano%20New%20Grad%20CV%20Updated%201.pdf)  
+- 📄 [Resume (PDF)](https://github.com/rolanorebelo/rolanorebelo/blob/main/Rolano%20Masters%20in%20CS%204%20YOE%20Nov%2025.pdf)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rolanorebelo/)  
 - ✉️ rolano.rebelo@gmail.com  
 - 🧑‍💻 [GitHub](https://github.com/rolanorebelo)
